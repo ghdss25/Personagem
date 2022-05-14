@@ -1,6 +1,6 @@
 <h1 align = "center">
 
- AGT - Agendamento de Atividades
+ Cadastro de Bonecos  
 
 <h1>
 
